@@ -1,9 +1,9 @@
 <template>
   <v-container >
-    <v-row class="text-center">
+    <v-row class="text-center mt-10">
 
       <v-col class="mb-4"> 
-        <h1 class="display-2 font-weight-bold mb-3">
+        <h1 class="display-2 font-weight-bold mb-3 mt-10">
           Keyware app de compra
         </h1>
         <p>
@@ -14,9 +14,17 @@
         <router-link to="/nuevoproducto">Nuevo producto</router-link>
       </v-col>
     </v-row>
+
+    <div class="text-center mt-10">
+      <h2>Proximos Productos en nuestra tienda</h2>
+    </div>
   </v-container>
+
+
 </template>
+
 
 <script>
   
 </script>
+
