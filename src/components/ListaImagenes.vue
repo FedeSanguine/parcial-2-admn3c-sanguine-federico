@@ -27,5 +27,13 @@ export default {
 <style scoped>
 img {
     max-width: 300px;
+    max-height: 300px;
+
+
+}
+
+img:hover{
+    filter: gray;
+    -webkit-filter: grayscale(1);
 }
 </style>

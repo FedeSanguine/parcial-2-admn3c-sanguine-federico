@@ -26,15 +26,5 @@ export default {
 </script>
 
 <style scoped>
-img{
-    -webkit-box-shadow: 0px 1px 6px 1px rgba(0,0,0,0.2);
-    -moz-box-shadow: 0px 1px 6px 1px rgba(0,0,0,0.2);
-    box-shadow: 0px 1px 6px 1px rgba(0,0,0,0.2);
-    margin-bottom: 20px;
-}
 
-img:hover{
-    filter: gray;
-    -webkit-filter: grayscale(1);
-}
 </style>
